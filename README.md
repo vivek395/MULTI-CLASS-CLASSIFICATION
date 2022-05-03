@@ -76,8 +76,11 @@ frames, allowing us to make simple comparisons.
 # Program:
 /* 
 Program to implement the multi class classifier. 
+
 Developed by: U. VIVEK KRISHNA
+
 RegisterNumber: 212219040180
+
 */
 from numpy import where
 
