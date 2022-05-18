@@ -74,15 +74,14 @@ frames, allowing us to make simple comparisons.
 8. stop the program
 
 # Program:
+```
 /* 
 Program to implement the multi class classifier. 
-
 Developed by: U. VIVEK KRISHNA
-
 RegisterNumber: 212219040180
-
 */
-
+```
+```
 from numpy import where
 
 from collections import Counter
@@ -109,6 +108,7 @@ for label, _ in counter.items():
 pyplot.legend()
 
 pyplot.show()
+```
 
 # Output:
 ![Output - Multi Class Classification](https://user-images.githubusercontent.com/63917883/166463897-3609f570-29e0-4a01-b7d3-b021c2d54397.png)
