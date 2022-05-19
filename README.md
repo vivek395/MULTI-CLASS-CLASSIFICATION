@@ -81,7 +81,7 @@ Developed by: U. VIVEK KRISHNA
 RegisterNumber: 212219040180
 */
 ```
-```
+```python3
 from numpy import where
 
 from collections import Counter
